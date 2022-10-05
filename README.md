@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning software development
 - 🌱 I’m currently starting to learn full stack development technologies
 - 💞️ I’m looking to collaborate on basic software development
-- 📫 How to reach me ...
+-This is a pull assignment exercise
 
 <!---
 eng-mswaleh/eng-mswaleh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
